@@ -1,4 +1,4 @@
-# Week 03 Prove: Milestone - Meal Price Calculator
+# Week 04 Prove: Milestone - Meal Price Calculator
 # Author: Leandro Amaral Pereira
 # Reference: https://byui-cse.github.io/cse110-course/lesson04/prove.html
 
