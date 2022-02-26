@@ -1,4 +1,4 @@
-# Week 3 Team Activity
+# Week 7 Team Activity
 # Reference: https://byui-cse.github.io/cse110-course/lesson07/teach.html
 import random
 
