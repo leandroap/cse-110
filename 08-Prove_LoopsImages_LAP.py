@@ -50,8 +50,11 @@ while play == "yes":
             #print(f"[{column}, {line}]")
             r, g, b = pixels_item[column, row]
 
-            if r < 100 and (g > 200 and g < 211) and b < 100:
+            #if r < 100 and (g > 200 and g < 211) and b < 100:
+            if r < 100 and g > 122 and b < 100:
                 pixels_new[column, row] = pixels_background[column, row]
+            #elif r < 160 and g > 160 and b < 160:
+            #    pixels_new[column, row] = pixels_background[column, row]
             else:
                 #print(f"r: {r} g: {g} b: {b}")
                 pixels_new[column, row] = pixels_item[column, row]
