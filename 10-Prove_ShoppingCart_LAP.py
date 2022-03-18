@@ -1,4 +1,4 @@
-# Week 09 Prove: Assignment Milestone
+# Week 10 Prove: Assignment Milestone
 # Shopping Cart
 # Author: Leandro Amaral Pereira
 # Reference: https://byui-cse.github.io/cse110-course/lesson09/prove.html
