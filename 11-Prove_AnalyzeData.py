@@ -1,5 +1,5 @@
 # Week 11 Prove: Assignment Milestone
-# Shopping Cart
+# Analyze a dataset about life expectancies 
 # Author: Leandro Amaral Pereira
 # Reference: https://byui-cse.github.io/cse110-course/lesson11/prove.html
 
