@@ -81,7 +81,7 @@ else:
     print(f"- Any data was found for the year {interest_year}.")
 
 if country_life_expectancy_list:
-    # Find the average, the lowest and the highest value for life expectancy in the dataset for the interest year.
+    # Find the average, the lowest and the highest value for life expectancy in the dataset for the interest country.
     index_max = country_life_expectancy_list.index(max(country_life_expectancy_list))
     index_min = country_life_expectancy_list.index(min(country_life_expectancy_list))
     country_average = sum(country_life_expectancy_list) / len(country_life_expectancy_list)
